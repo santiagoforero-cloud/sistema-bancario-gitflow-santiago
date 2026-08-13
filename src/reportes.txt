@@ -3,3 +3,9 @@ EXPORTACION BASICA DE REPORTES
 - Exportar a PDF
 - Exportar a Excel
 - Exportar a CSV
+
+FILTROS AVANZADOS PARA REPORTES
+
+- Filtrar por fecha
+- Filtrar por cliente
+- Filtrar por tipo de cuenta
