@@ -1,0 +1,5 @@
+AUDITORIA BASICA DE TRANSFERENCIAS
+
+- Registrar monto transferido
+- Registrar fecha
+- Registrar cuentas involucradas
