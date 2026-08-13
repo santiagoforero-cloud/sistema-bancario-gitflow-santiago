@@ -3,3 +3,9 @@ CONTROLES BASICOS DE SEGURIDAD PARA CUENTAS
 - Verificar saldo minimo
 - Validar numero de cuenta
 - Registrar fecha de creacion
+
+CONTROLES AVANZADOS DE SEGURIDAD PARA CUENTAS
+
+- Bloqueo por intentos fallidos
+- Registro de accesos
+- Validacion de operaciones sospechosas
