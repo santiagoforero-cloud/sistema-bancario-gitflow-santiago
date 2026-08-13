@@ -1,0 +1,5 @@
+EXPORTACION BASICA DE REPORTES
+
+- Exportar a PDF
+- Exportar a Excel
+- Exportar a CSV
