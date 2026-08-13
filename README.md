@@ -18,3 +18,7 @@ Funcionalidades:
 - Gestion de cuentas
 - Transferencias
 - Reportes
+
+## Corrección 1.0.1
+
+Se corrige la documentación del proyecto.
