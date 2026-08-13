@@ -1,0 +1,5 @@
+VALIDACIONES BASICAS DE CLIENTES
+
+- Verificar nombre obligatorio
+- Verificar documento obligatorio
+- Verificar telefono obligatorio
